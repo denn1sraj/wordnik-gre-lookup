@@ -5,7 +5,9 @@
 ~~2. Call the API to look up words~~
 ~~3. Write to a CSV file~~
 ~~4. add error handling with a log~~ 
-5. add fix for error handling within
+~~5. add fix for error handling~~
+6. separate iterations for improved error handling by call
+7. solve for retry if error code is 429 too many error requests
 
 ## Gsheets Dev -- Future Feature
 

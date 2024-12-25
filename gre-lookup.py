@@ -23,14 +23,14 @@ df = df.assign(part='',
                example = '')
 
 # testing limit 
-limit = 30
+# limit = 30 // ucomment to add break
 
 with open("error_log.txt", "w") as log:
 
     for row in df.itertuples():
-        # testing 
-        if row.Index > limit:
-            break
+        # testing // uncomment to add break
+        # if row.Index > limit:
+        #     break
         try: 
 
             print(f"Starting Index: {row.Index}")
@@ -73,15 +73,15 @@ with open("error_log.txt", "w") as log:
             rate_remaining = int(headers.get("X-RateLimit-Remaining-Minute", 1))
             print("Rate Remaining (Per Minute):", rate_remaining, "\n")
             if rate_remaining < 3:
-                print("Approaching rate limit. Sleeping for 30 seconds. \n")
-                sleep(30)
+                print("Approaching rate limit. Sleeping for 45 seconds. \n")
+                sleep(45)
             else:
-                sleep(1)
+                sleep(5)
 
         except Exception as e:
                 log.write(f"error processing row {row.Index} for URL {current_url} - {e}\n")
-                print(f"Error processing row {row.Index} for {row.Word} \nMoving on to the next word. \n")
-                sleep(30)
+                print(f"Error processing row {row.Index} for {row.Word} \nWaiting 45 seconds before processing the next word. \n")
+                sleep(45)
 
 file_path = "Output/gre words updated.csv"
 
