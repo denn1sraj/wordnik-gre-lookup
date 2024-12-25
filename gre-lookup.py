@@ -34,29 +34,32 @@ with open("error_log.txt", "w") as log:
         try: 
 
             print(f"Starting Index: {row.Index}")
-            url_def = f"{base_url}{row.Word}/definitions?api_key={key}"
-            url_rel = f"{base_url}{row.Word}/relatedWords?api_key={key}"
-            url_topex = f"{base_url}{row.Word}/topExample?api_key={key}"
 
-            # call / store json for definition
-            response = urlopen(url_def)
+             # call / store json for definition
+            current_url = f"{base_url}{row.Word}/definitions?api_key={key}"
+            response = urlopen(current_url)
             json_data = json.loads(response.read())[0] ## pulls just the first response
+
             # extract definition data
             definition = json_data['text']
             part = json_data['partOfSpeech']
 
-            # repeat call / store for synonym
-            response = urlopen(url_rel)
+            # call / store for synonym
+            current_url = f"{base_url}{row.Word}/relatedWords?api_key={key}"
+            response = urlopen(current_url)
             json_data = json.loads(response.read())
+
             # extract synonym data
             synonyms = next(item['words'] for item in json_data if item['relationshipType'] == 'synonym')
 
             # repeat call / store for top example
-            response = urlopen(url_topex)
+            current_url = f"{base_url}{row.Word}/topExample?api_key={key}"
+            response = urlopen(current_url)
             json_data = json.loads(response.read())
+            
             # extract example data
             example = json_data['text']
-
+            
             print(f"Updating: {row.Word}")
             df.at[row.Index, 'part'] = part
             df.at[row.Index, 'definition'] = definition
@@ -64,15 +67,19 @@ with open("error_log.txt", "w") as log:
             df.at[row.Index, 'example'] = example
             print(f"{row.Word} is updated with the part of speech, definition, synonyms and examples")
             print(f"Index {row.Index} processed correctly")
-
-            # optional // check to see if you are running up against the rate limit 
+        
+        # check rate
             headers = response.info()
-            rate_remaining = headers.get("X-RateLimit-Remaining-Minute")
+            rate_remaining = int(headers.get("X-RateLimit-Remaining-Minute", 1))
             print("Rate Remaining (Per Minute):", rate_remaining, "\n")
-            sleep(30)
+            if rate_remaining < 3:
+                print("Approaching rate limit. Sleeping for 30 seconds. \n")
+                sleep(30)
+            else:
+                sleep(1)
 
         except Exception as e:
-                log.write(f"error processing row {row.Index} - {e}\n")
+                log.write(f"error processing row {row.Index} for URL {current_url} - {e}\n")
                 print(f"Error processing row {row.Index} for {row.Word} \nMoving on to the next word. \n")
                 sleep(30)
 
