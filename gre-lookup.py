@@ -87,13 +87,3 @@ file_path = "Output/gre words updated.csv"
 
 df.to_csv(file_path, index=False)
 print(f"File '{file_path}' written successfully!")
-
-    
-
-    
-
-
-
-
-    
-
