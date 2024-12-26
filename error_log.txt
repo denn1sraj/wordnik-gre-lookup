@@ -1,428 +1,514 @@
-error processing row 3 for URL https://api.wordnik.com/v4/word.json/abort/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
- - 'text'
-error processing row 5 for URL https://api.wordnik.com/v4/word.json/abscission/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
- - 
-error processing row 6 for URL https://api.wordnik.com/v4/word.json/absolute/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
- - 'partOfSpeech'
-error processing row 8 for URL https://api.wordnik.com/v4/word.json/accolade/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
- - 'text'
-error processing row 9 for URL https://api.wordnik.com/v4/word.json/accretion/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
- - 'text'
-error processing row 10 for URL https://api.wordnik.com/v4/word.json/acerbic/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
- - 'partOfSpeech'
-error processing row 11 for URL https://api.wordnik.com/v4/word.json/admonished/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
- - 
-error processing row 14 for URL https://api.wordnik.com/v4/word.json/aghast/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+error processing row 7 for URL https://api.wordnik.com/v4/word.json/abnegate/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
  - HTTP Error 429: Too Many Requests
-error processing row 15 for URL https://api.wordnik.com/v4/word.json/altruistic/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
- - 'partOfSpeech'
-error processing row 16 for URL https://api.wordnik.com/v4/word.json/ameliorated/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
- - 
-error processing row 17 for URL https://api.wordnik.com/v4/word.json/amenable/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+error processing row 10 for URL https://api.wordnik.com/v4/word.json/abort/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
  - 'text'
-error processing row 19 for URL https://api.wordnik.com/v4/word.json/analogue/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
- - 'text'
-error processing row 22 for URL https://api.wordnik.com/v4/word.json/antipode/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
- - 
-error processing row 25 for URL https://api.wordnik.com/v4/word.json/apoplectic/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
- - 
-error processing row 26 for URL https://api.wordnik.com/v4/word.json/apostle/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
- - 'text'
-error processing row 27 for URL https://api.wordnik.com/v4/word.json/appease/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
- - 'text'
-error processing row 29 for URL https://api.wordnik.com/v4/word.json/arrogate/topExample?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+error processing row 14 for URL https://api.wordnik.com/v4/word.json/abrogate/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
  - HTTP Error 429: Too Many Requests
-error processing row 30 for URL https://api.wordnik.com/v4/word.json/artifice/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
- - 'text'
-error processing row 31 for URL https://api.wordnik.com/v4/word.json/ashen/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+error processing row 15 for URL https://api.wordnik.com/v4/word.json/abscission/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - 
+error processing row 16 for URL https://api.wordnik.com/v4/word.json/absolute/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
  - 'partOfSpeech'
-error processing row 32 for URL https://api.wordnik.com/v4/word.json/asperity/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+error processing row 22 for URL https://api.wordnik.com/v4/word.json/accolade/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
  - 'text'
-error processing row 33 for URL https://api.wordnik.com/v4/word.json/aspersion/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+error processing row 23 for URL https://api.wordnik.com/v4/word.json/accretion/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
  - 'text'
-error processing row 36 for URL https://api.wordnik.com/v4/word.json/audacious/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+error processing row 25 for URL https://api.wordnik.com/v4/word.json/acerbic/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
  - 'partOfSpeech'
-error processing row 39 for URL https://api.wordnik.com/v4/word.json/aversion/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+error processing row 30 for URL https://api.wordnik.com/v4/word.json/acumen/topExample?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - HTTP Error 429: Too Many Requests
+error processing row 35 for URL https://api.wordnik.com/v4/word.json/admonished/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - 
+error processing row 39 for URL https://api.wordnik.com/v4/word.json/adulterate/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - HTTP Error 429: Too Many Requests
+error processing row 46 for URL https://api.wordnik.com/v4/word.json/affiliated/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - HTTP Error 429: Too Many Requests
+error processing row 54 for URL https://api.wordnik.com/v4/word.json/altruistic/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - 'partOfSpeech'
+error processing row 58 for URL https://api.wordnik.com/v4/word.json/ameliorated/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - 
+error processing row 59 for URL https://api.wordnik.com/v4/word.json/amenable/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
  - 'text'
-error processing row 40 for URL https://api.wordnik.com/v4/word.json/avuncular/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
- - 
-error processing row 41 for URL https://api.wordnik.com/v4/word.json/baying/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
- - 
-error processing row 42 for URL https://api.wordnik.com/v4/word.json/behemoth/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
- - 
-error processing row 43 for URL https://api.wordnik.com/v4/word.json/benign/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+error processing row 64 for URL https://api.wordnik.com/v4/word.json/analogue/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
  - 'text'
-error processing row 44 for URL https://api.wordnik.com/v4/word.json/bereft/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
- - 'text'
-error processing row 45 for URL https://api.wordnik.com/v4/word.json/bifurcated/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+error processing row 74 for URL https://api.wordnik.com/v4/word.json/antipode/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
  - 
-error processing row 47 for URL https://api.wordnik.com/v4/word.json/blasé/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+error processing row 75 for URL https://api.wordnik.com/v4/word.json/antithesis/topExample?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - HTTP Error 429: Too Many Requests
+error processing row 80 for URL https://api.wordnik.com/v4/word.json/apoplectic/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - 
+error processing row 81 for URL https://api.wordnik.com/v4/word.json/apostle/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - 'text'
+error processing row 84 for URL https://api.wordnik.com/v4/word.json/appease/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - 'text'
+error processing row 97 for URL https://api.wordnik.com/v4/word.json/artifice/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - 'text'
+error processing row 101 for URL https://api.wordnik.com/v4/word.json/ashen/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - 'partOfSpeech'
+error processing row 103 for URL https://api.wordnik.com/v4/word.json/asperity/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - 'text'
+error processing row 104 for URL https://api.wordnik.com/v4/word.json/aspersion/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - 'text'
+error processing row 112 for URL https://api.wordnik.com/v4/word.json/audacious/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - 'partOfSpeech'
+error processing row 122 for URL https://api.wordnik.com/v4/word.json/aversion/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - 'text'
+error processing row 123 for URL https://api.wordnik.com/v4/word.json/avuncular/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - 
+error processing row 130 for URL https://api.wordnik.com/v4/word.json/baying/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - 
+error processing row 136 for URL https://api.wordnik.com/v4/word.json/behemoth/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - 
+error processing row 143 for URL https://api.wordnik.com/v4/word.json/benign/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - 'text'
+error processing row 144 for URL https://api.wordnik.com/v4/word.json/bereft/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - 'text'
+error processing row 146 for URL https://api.wordnik.com/v4/word.json/bifurcated/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - 
+error processing row 148 for URL https://api.wordnik.com/v4/word.json/blasé/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
  - 'ascii' codec can't encode character '\xe9' in position 22: ordinal not in range(128)
-error processing row 49 for URL https://api.wordnik.com/v4/word.json/bloviated/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+error processing row 150 for URL https://api.wordnik.com/v4/word.json/bloviated/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
  - 
-error processing row 52 for URL https://api.wordnik.com/v4/word.json/boon/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+error processing row 160 for URL https://api.wordnik.com/v4/word.json/bromide/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - 'text'
+error processing row 169 for URL https://api.wordnik.com/v4/word.json/burgeoning/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - 
+error processing row 172 for URL https://api.wordnik.com/v4/word.json/byzantine/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - HTTP Error 404: Not Found
+error processing row 173 for URL https://api.wordnik.com/v4/word.json/cache/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - 'text'
+error processing row 190 for URL https://api.wordnik.com/v4/word.json/caricatured/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - 
+error processing row 192 for URL https://api.wordnik.com/v4/word.json/caterwaul/topExample?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
  - HTTP Error 429: Too Many Requests
-error processing row 58 for URL https://api.wordnik.com/v4/word.json/bromide/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
- - 'text'
-error processing row 60 for URL https://api.wordnik.com/v4/word.json/burgeoning/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
- - 
-error processing row 61 for URL https://api.wordnik.com/v4/word.json/byzantine/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
- - HTTP Error 404: Not Found
-error processing row 62 for URL https://api.wordnik.com/v4/word.json/cache/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
- - 'text'
-error processing row 65 for URL https://api.wordnik.com/v4/word.json/caricatured/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
- - 
-error processing row 67 for URL https://api.wordnik.com/v4/word.json/choleric/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
- - 'text'
-error processing row 68 for URL https://api.wordnik.com/v4/word.json/cinematic/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
- - 'partOfSpeech'
-error processing row 69 for URL https://api.wordnik.com/v4/word.json/circumscribed/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
- - 'partOfSpeech'
-error processing row 70 for URL https://api.wordnik.com/v4/word.json/circumvents/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
- - 
-error processing row 72 for URL https://api.wordnik.com/v4/word.json/clangorous/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
- - 'partOfSpeech'
-error processing row 73 for URL https://api.wordnik.com/v4/word.json/climatic/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
- - 
-error processing row 75 for URL https://api.wordnik.com/v4/word.json/coerced/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
- - 
-error processing row 77 for URL https://api.wordnik.com/v4/word.json/cohesive/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
- - 'partOfSpeech'
-error processing row 78 for URL https://api.wordnik.com/v4/word.json/cohort/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
- - 'text'
-error processing row 81 for URL https://api.wordnik.com/v4/word.json/condones/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
- - 
-error processing row 83 for URL https://api.wordnik.com/v4/word.json/conniving/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
- - 'partOfSpeech'
-error processing row 86 for URL https://api.wordnik.com/v4/word.json/cordial/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
- - 'text'
-error processing row 88 for URL https://api.wordnik.com/v4/word.json/credence/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
- - 'text'
-error processing row 89 for URL https://api.wordnik.com/v4/word.json/denuded/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
- - 'partOfSpeech'
-error processing row 92 for URL https://api.wordnik.com/v4/word.json/desiccated/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
- - 
-error processing row 93 for URL https://api.wordnik.com/v4/word.json/devout/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
- - 'text'
-error processing row 95 for URL https://api.wordnik.com/v4/word.json/discreet/topExample?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+error processing row 195 for URL https://api.wordnik.com/v4/word.json/censure/topExample?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
  - HTTP Error 429: Too Many Requests
-error processing row 96 for URL https://api.wordnik.com/v4/word.json/dismantle/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+error processing row 201 for URL https://api.wordnik.com/v4/word.json/choleric/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
  - 'text'
-error processing row 98 for URL https://api.wordnik.com/v4/word.json/displacing/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
- - 
-error processing row 105 for URL https://api.wordnik.com/v4/word.json/dour/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+error processing row 204 for URL https://api.wordnik.com/v4/word.json/cinematic/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
  - 'partOfSpeech'
-error processing row 107 for URL https://api.wordnik.com/v4/word.json/effaced/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
- - 
-error processing row 108 for URL https://api.wordnik.com/v4/word.json/effete/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
- - 'text'
-error processing row 110 for URL https://api.wordnik.com/v4/word.json/embroiled/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
- - 
-error processing row 111 for URL https://api.wordnik.com/v4/word.json/empirical/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
- - 'text'
-error processing row 112 for URL https://api.wordnik.com/v4/word.json/encroaching/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
- - 
-error processing row 113 for URL https://api.wordnik.com/v4/word.json/ensorcelled/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
- - 
-error processing row 114 for URL https://api.wordnik.com/v4/word.json/esoteric/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
- - 'text'
-error processing row 115 for URL https://api.wordnik.com/v4/word.json/etiolated/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
- - 
-error processing row 116 for URL https://api.wordnik.com/v4/word.json/eurytopic/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
- - 
-error processing row 118 for URL https://api.wordnik.com/v4/word.json/evinced/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
- - 
-error processing row 119 for URL https://api.wordnik.com/v4/word.json/exacerbated/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
- - 
-error processing row 121 for URL https://api.wordnik.com/v4/word.json/excise/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+error processing row 206 for URL https://api.wordnik.com/v4/word.json/circumscribed/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
  - 'partOfSpeech'
-error processing row 124 for URL https://api.wordnik.com/v4/word.json/extirpate/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
- - 'text'
-error processing row 125 for URL https://api.wordnik.com/v4/word.json/extrapolate/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+error processing row 208 for URL https://api.wordnik.com/v4/word.json/circumvents/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
  - 
-error processing row 126 for URL https://api.wordnik.com/v4/word.json/farce/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
- - 'text'
-error processing row 127 for URL https://api.wordnik.com/v4/word.json/fecund/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
- - 'text'
-error processing row 128 for URL https://api.wordnik.com/v4/word.json/feign/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
- - 'text'
-error processing row 129 for URL https://api.wordnik.com/v4/word.json/felicity/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
- - 'text'
-error processing row 130 for URL https://api.wordnik.com/v4/word.json/finagled/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
- - 
-error processing row 131 for URL https://api.wordnik.com/v4/word.json/flotilla/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
- - 'text'
-error processing row 132 for URL https://api.wordnik.com/v4/word.json/flotsam/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
- - 
-error processing row 133 for URL https://api.wordnik.com/v4/word.json/flounder/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+error processing row 211 for URL https://api.wordnik.com/v4/word.json/clangorous/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
  - 'partOfSpeech'
-error processing row 134 for URL https://api.wordnik.com/v4/word.json/flouted/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+error processing row 213 for URL https://api.wordnik.com/v4/word.json/climatic/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
  - 
-error processing row 135 for URL https://api.wordnik.com/v4/word.json/flummoxed/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+error processing row 219 for URL https://api.wordnik.com/v4/word.json/coerced/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
  - 
-error processing row 136 for URL https://api.wordnik.com/v4/word.json/forestall/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
- - 'text'
-error processing row 144 for URL https://api.wordnik.com/v4/word.json/gamboled/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
- - HTTP Error 404: Not Found
-error processing row 146 for URL https://api.wordnik.com/v4/word.json/gaudy/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+error processing row 223 for URL https://api.wordnik.com/v4/word.json/cohesive/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
  - 'partOfSpeech'
-error processing row 147 for URL https://api.wordnik.com/v4/word.json/genial/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
- - 'partOfSpeech'
-error processing row 148 for URL https://api.wordnik.com/v4/word.json/gild/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+error processing row 224 for URL https://api.wordnik.com/v4/word.json/cohort/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
  - 'text'
-error processing row 149 for URL https://api.wordnik.com/v4/word.json/glacial/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
- - 'text'
-error processing row 150 for URL https://api.wordnik.com/v4/word.json/glowered/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
- - 
-error processing row 151 for URL https://api.wordnik.com/v4/word.json/goosebumps/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
- - HTTP Error 404: Not Found
-error processing row 152 for URL https://api.wordnik.com/v4/word.json/grandiloquent/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
- - 'partOfSpeech'
-error processing row 154 for URL https://api.wordnik.com/v4/word.json/gravitas/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
- - 
-error processing row 155 for URL https://api.wordnik.com/v4/word.json/haptic/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
- - 
-error processing row 156 for URL https://api.wordnik.com/v4/word.json/hardscrabble/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
- - 
-error processing row 158 for URL https://api.wordnik.com/v4/word.json/harrow/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
- - 'partOfSpeech'
-error processing row 159 for URL https://api.wordnik.com/v4/word.json/holistic/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
- - 
-error processing row 160 for URL https://api.wordnik.com/v4/word.json/humbuggery/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
- - HTTP Error 404: Not Found
-error processing row 161 for URL https://api.wordnik.com/v4/word.json/husbandry/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
- - 'text'
-error processing row 162 for URL https://api.wordnik.com/v4/word.json/ideological/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
- - 
-error processing row 164 for URL https://api.wordnik.com/v4/word.json/imbroglio/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
- - 'text'
-error processing row 165 for URL https://api.wordnik.com/v4/word.json/impeded/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
- - 
-error processing row 167 for URL https://api.wordnik.com/v4/word.json/impinge/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
- - 'text'
-error processing row 169 for URL https://api.wordnik.com/v4/word.json/impregnable/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
- - 'partOfSpeech'
-error processing row 172 for URL https://api.wordnik.com/v4/word.json/indictment/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
- - 'text'
-error processing row 175 for URL https://api.wordnik.com/v4/word.json/innate/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
- - 'text'
-error processing row 178 for URL https://api.wordnik.com/v4/word.json/insolence/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
- - 'partOfSpeech'
-error processing row 179 for URL https://api.wordnik.com/v4/word.json/insular/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
- - 'text'
-error processing row 181 for URL https://api.wordnik.com/v4/word.json/intimate/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
- - 'partOfSpeech'
-error processing row 186 for URL https://api.wordnik.com/v4/word.json/judicious/topExample?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+error processing row 231 for URL https://api.wordnik.com/v4/word.json/composure/topExample?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
  - HTTP Error 429: Too Many Requests
-error processing row 187 for URL https://api.wordnik.com/v4/word.json/juggernaut/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+error processing row 239 for URL https://api.wordnik.com/v4/word.json/condones/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
  - 
-error processing row 188 for URL https://api.wordnik.com/v4/word.json/kindle/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+error processing row 246 for URL https://api.wordnik.com/v4/word.json/conniving/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
  - 'partOfSpeech'
-error processing row 190 for URL https://api.wordnik.com/v4/word.json/languid/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+error processing row 255 for URL https://api.wordnik.com/v4/word.json/cordial/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
  - 'text'
-error processing row 191 for URL https://api.wordnik.com/v4/word.json/largess/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+error processing row 262 for URL https://api.wordnik.com/v4/word.json/credence/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
  - 'text'
-error processing row 194 for URL https://api.wordnik.com/v4/word.json/lionized/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+error processing row 266 for URL https://api.wordnik.com/v4/word.json/demur/topExample?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - HTTP Error 429: Too Many Requests
+error processing row 269 for URL https://api.wordnik.com/v4/word.json/denuded/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - 'partOfSpeech'
+error processing row 276 for URL https://api.wordnik.com/v4/word.json/descry/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - HTTP Error 429: Too Many Requests
+error processing row 278 for URL https://api.wordnik.com/v4/word.json/desiccated/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
  - 
-error processing row 195 for URL https://api.wordnik.com/v4/word.json/lumber/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
- - 'partOfSpeech'
-error processing row 196 for URL https://api.wordnik.com/v4/word.json/luminary/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+error processing row 285 for URL https://api.wordnik.com/v4/word.json/devout/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
  - 'text'
-error processing row 197 for URL https://api.wordnik.com/v4/word.json/lurid/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+error processing row 298 for URL https://api.wordnik.com/v4/word.json/dire/topExample?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - HTTP Error 429: Too Many Requests
+error processing row 301 for URL https://api.wordnik.com/v4/word.json/discreet/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - HTTP Error 429: Too Many Requests
+error processing row 306 for URL https://api.wordnik.com/v4/word.json/dismantle/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
  - 'text'
-error processing row 199 for URL https://api.wordnik.com/v4/word.json/magisterial/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
- - 'text'
-error processing row 202 for URL https://api.wordnik.com/v4/word.json/marshal/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
- - 'text'
-error processing row 204 for URL https://api.wordnik.com/v4/word.json/mephitic/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
- - 'partOfSpeech'
-error processing row 205 for URL https://api.wordnik.com/v4/word.json/mercurial/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
- - 'text'
-error processing row 206 for URL https://api.wordnik.com/v4/word.json/meretricious/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
- - 'text'
-error processing row 207 for URL https://api.wordnik.com/v4/word.json/meterological/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
- - 'text'
-error processing row 209 for URL https://api.wordnik.com/v4/word.json/microcosm/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+error processing row 312 for URL https://api.wordnik.com/v4/word.json/displacing/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
  - 
-error processing row 211 for URL https://api.wordnik.com/v4/word.json/mordant/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
- - 'text'
-error processing row 213 for URL https://api.wordnik.com/v4/word.json/myopic/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+error processing row 319 for URL https://api.wordnik.com/v4/word.json/divergent/topExample?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - HTTP Error 429: Too Many Requests
+error processing row 328 for URL https://api.wordnik.com/v4/word.json/dour/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
  - 'partOfSpeech'
-error processing row 215 for URL https://api.wordnik.com/v4/word.json/non sequitur/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+error processing row 339 for URL https://api.wordnik.com/v4/word.json/effaced/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - 
+error processing row 340 for URL https://api.wordnik.com/v4/word.json/effete/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - 'text'
+error processing row 351 for URL https://api.wordnik.com/v4/word.json/embroiled/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - 
+error processing row 356 for URL https://api.wordnik.com/v4/word.json/empirical/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - 'text'
+error processing row 359 for URL https://api.wordnik.com/v4/word.json/encroaching/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - 
+error processing row 364 for URL https://api.wordnik.com/v4/word.json/ensorcelled/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - 
+error processing row 375 for URL https://api.wordnik.com/v4/word.json/esoteric/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - 'text'
+error processing row 381 for URL https://api.wordnik.com/v4/word.json/etiolated/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - 
+error processing row 383 for URL https://api.wordnik.com/v4/word.json/eurytopic/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - 
+error processing row 385 for URL https://api.wordnik.com/v4/word.json/evinced/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - 
+error processing row 386 for URL https://api.wordnik.com/v4/word.json/exacerbated/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - 
+error processing row 390 for URL https://api.wordnik.com/v4/word.json/excise/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - 'partOfSpeech'
+error processing row 407 for URL https://api.wordnik.com/v4/word.json/extirpate/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - 'text'
+error processing row 410 for URL https://api.wordnik.com/v4/word.json/extrapolate/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - 
+error processing row 413 for URL https://api.wordnik.com/v4/word.json/facetious/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - HTTP Error 429: Too Many Requests
+error processing row 416 for URL https://api.wordnik.com/v4/word.json/farce/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - 'text'
+error processing row 421 for URL https://api.wordnik.com/v4/word.json/fecund/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - 'text'
+error processing row 422 for URL https://api.wordnik.com/v4/word.json/feign/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - 'text'
+error processing row 423 for URL https://api.wordnik.com/v4/word.json/felicity/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - 'text'
+error processing row 427 for URL https://api.wordnik.com/v4/word.json/fetid/topExample?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - HTTP Error 429: Too Many Requests
+error processing row 431 for URL https://api.wordnik.com/v4/word.json/finagled/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - 
+error processing row 438 for URL https://api.wordnik.com/v4/word.json/flotilla/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - 'text'
+error processing row 439 for URL https://api.wordnik.com/v4/word.json/flotsam/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - 
+error processing row 440 for URL https://api.wordnik.com/v4/word.json/flounder/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - 'partOfSpeech'
+error processing row 442 for URL https://api.wordnik.com/v4/word.json/flouted/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - 
+error processing row 444 for URL https://api.wordnik.com/v4/word.json/flummoxed/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - 
+error processing row 449 for URL https://api.wordnik.com/v4/word.json/foreground/topExample?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - HTTP Error 429: Too Many Requests
+error processing row 450 for URL https://api.wordnik.com/v4/word.json/forestall/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - 'text'
+error processing row 458 for URL https://api.wordnik.com/v4/word.json/froward/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - HTTP Error 429: Too Many Requests
+error processing row 465 for URL https://api.wordnik.com/v4/word.json/furor/topExample?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - HTTP Error 429: Too Many Requests
+error processing row 471 for URL https://api.wordnik.com/v4/word.json/gambit/topExample?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - HTTP Error 429: Too Many Requests
+error processing row 472 for URL https://api.wordnik.com/v4/word.json/gamboled/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - HTTP Error 404: Not Found
+error processing row 477 for URL https://api.wordnik.com/v4/word.json/gaudy/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - 'partOfSpeech'
+error processing row 478 for URL https://api.wordnik.com/v4/word.json/genial/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - 'partOfSpeech'
+error processing row 482 for URL https://api.wordnik.com/v4/word.json/gild/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - 'text'
+error processing row 483 for URL https://api.wordnik.com/v4/word.json/glacial/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - 'text'
+error processing row 486 for URL https://api.wordnik.com/v4/word.json/glowered/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - 
+error processing row 488 for URL https://api.wordnik.com/v4/word.json/goosebumps/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - HTTP Error 404: Not Found
+error processing row 490 for URL https://api.wordnik.com/v4/word.json/grandiloquent/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - 'partOfSpeech'
+error processing row 495 for URL https://api.wordnik.com/v4/word.json/gravitas/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - 
+error processing row 507 for URL https://api.wordnik.com/v4/word.json/haptic/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - 
+error processing row 510 for URL https://api.wordnik.com/v4/word.json/hardscrabble/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - 
+error processing row 513 for URL https://api.wordnik.com/v4/word.json/harrow/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - 'partOfSpeech'
+error processing row 519 for URL https://api.wordnik.com/v4/word.json/herald/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - HTTP Error 429: Too Many Requests
+error processing row 525 for URL https://api.wordnik.com/v4/word.json/hidebound/topExample?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - HTTP Error 429: Too Many Requests
+error processing row 529 for URL https://api.wordnik.com/v4/word.json/holistic/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - 
+error processing row 531 for URL https://api.wordnik.com/v4/word.json/homogeneous/topExample?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - HTTP Error 429: Too Many Requests
+error processing row 534 for URL https://api.wordnik.com/v4/word.json/humbuggery/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - HTTP Error 404: Not Found
+error processing row 536 for URL https://api.wordnik.com/v4/word.json/husbandry/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - 'text'
+error processing row 538 for URL https://api.wordnik.com/v4/word.json/ideological/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - 
+error processing row 544 for URL https://api.wordnik.com/v4/word.json/imbroglio/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - 'text'
+error processing row 551 for URL https://api.wordnik.com/v4/word.json/impeded/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - 
+error processing row 557 for URL https://api.wordnik.com/v4/word.json/impetus/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - HTTP Error 429: Too Many Requests
+error processing row 558 for URL https://api.wordnik.com/v4/word.json/impinge/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - 'text'
+error processing row 564 for URL https://api.wordnik.com/v4/word.json/impregnable/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - 'partOfSpeech'
+error processing row 581 for URL https://api.wordnik.com/v4/word.json/indefatigable/topExample?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - HTTP Error 429: Too Many Requests
+error processing row 582 for URL https://api.wordnik.com/v4/word.json/indictment/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - 'text'
+error processing row 599 for URL https://api.wordnik.com/v4/word.json/innate/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - 'text'
+error processing row 605 for URL https://api.wordnik.com/v4/word.json/insolence/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - 'partOfSpeech'
+error processing row 606 for URL https://api.wordnik.com/v4/word.json/insular/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - 'text'
+error processing row 609 for URL https://api.wordnik.com/v4/word.json/intimate/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - 'partOfSpeech'
+error processing row 619 for URL https://api.wordnik.com/v4/word.json/irk/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - HTTP Error 429: Too Many Requests
+error processing row 628 for URL https://api.wordnik.com/v4/word.json/juggernaut/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - 
+error processing row 631 for URL https://api.wordnik.com/v4/word.json/kindle/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - 'partOfSpeech'
+error processing row 636 for URL https://api.wordnik.com/v4/word.json/lackadaisical/topExample?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - HTTP Error 429: Too Many Requests
+error processing row 639 for URL https://api.wordnik.com/v4/word.json/languid/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - 'text'
+error processing row 640 for URL https://api.wordnik.com/v4/word.json/largess/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - 'text'
+error processing row 649 for URL https://api.wordnik.com/v4/word.json/lionized/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - 
+error processing row 658 for URL https://api.wordnik.com/v4/word.json/lumber/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - 'partOfSpeech'
+error processing row 659 for URL https://api.wordnik.com/v4/word.json/luminary/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - 'text'
+error processing row 660 for URL https://api.wordnik.com/v4/word.json/lurid/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - 'text'
+error processing row 663 for URL https://api.wordnik.com/v4/word.json/machination/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - HTTP Error 429: Too Many Requests
+error processing row 665 for URL https://api.wordnik.com/v4/word.json/magisterial/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - 'text'
+error processing row 675 for URL https://api.wordnik.com/v4/word.json/mandate/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - HTTP Error 429: Too Many Requests
+error processing row 678 for URL https://api.wordnik.com/v4/word.json/marshal/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - 'text'
+error processing row 687 for URL https://api.wordnik.com/v4/word.json/mendicant/topExample?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - HTTP Error 429: Too Many Requests
+error processing row 689 for URL https://api.wordnik.com/v4/word.json/mephitic/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - 'partOfSpeech'
+error processing row 691 for URL https://api.wordnik.com/v4/word.json/mercurial/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - 'text'
+error processing row 692 for URL https://api.wordnik.com/v4/word.json/meretricious/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - 'text'
+error processing row 693 for URL https://api.wordnik.com/v4/word.json/meterological/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - 'text'
+error processing row 697 for URL https://api.wordnik.com/v4/word.json/microcosm/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - 
+error processing row 713 for URL https://api.wordnik.com/v4/word.json/mordant/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - 'text'
+error processing row 718 for URL https://api.wordnik.com/v4/word.json/motley/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - HTTP Error 429: Too Many Requests
+error processing row 722 for URL https://api.wordnik.com/v4/word.json/myopic/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - 'partOfSpeech'
+error processing row 733 for URL https://api.wordnik.com/v4/word.json/non sequitur/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
  - URL can't contain control characters. '/v4/word.json/non sequitur/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2' (found at least ' ')
-error processing row 217 for URL https://api.wordnik.com/v4/word.json/nontrivial/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+error processing row 738 for URL https://api.wordnik.com/v4/word.json/nontrivial/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
  - 
-error processing row 219 for URL https://api.wordnik.com/v4/word.json/novel/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+error processing row 743 for URL https://api.wordnik.com/v4/word.json/novel/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
  - 'partOfSpeech'
-error processing row 221 for URL https://api.wordnik.com/v4/word.json/obfuscated/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+error processing row 750 for URL https://api.wordnik.com/v4/word.json/obfuscated/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
  - 
-error processing row 222 for URL https://api.wordnik.com/v4/word.json/objective/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+error processing row 752 for URL https://api.wordnik.com/v4/word.json/objective/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
  - 'text'
-error processing row 223 for URL https://api.wordnik.com/v4/word.json/obstinate/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+error processing row 756 for URL https://api.wordnik.com/v4/word.json/obstinate/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
  - 'text'
-error processing row 224 for URL https://api.wordnik.com/v4/word.json/occluded/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+error processing row 759 for URL https://api.wordnik.com/v4/word.json/occluded/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
  - 
-error processing row 225 for URL https://api.wordnik.com/v4/word.json/opaque/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+error processing row 767 for URL https://api.wordnik.com/v4/word.json/opaque/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
  - 'text'
-error processing row 228 for URL https://api.wordnik.com/v4/word.json/ostracized/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
- - 
-error processing row 232 for URL https://api.wordnik.com/v4/word.json/palliate/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
- - 'text'
-error processing row 233 for URL https://api.wordnik.com/v4/word.json/pangs/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
- - 
-error processing row 234 for URL https://api.wordnik.com/v4/word.json/panned/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
- - 
-error processing row 235 for URL https://api.wordnik.com/v4/word.json/parody/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
- - 'text'
-error processing row 236 for URL https://api.wordnik.com/v4/word.json/partisan/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
- - 'partOfSpeech'
-error processing row 237 for URL https://api.wordnik.com/v4/word.json/patois/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
- - 'text'
-error processing row 238 for URL https://api.wordnik.com/v4/word.json/peevish/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
- - 'text'
-error processing row 240 for URL https://api.wordnik.com/v4/word.json/peons/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
- - 
-error processing row 241 for URL https://api.wordnik.com/v4/word.json/peremptory/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
- - 'text'
-error processing row 242 for URL https://api.wordnik.com/v4/word.json/perennial/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
- - 'text'
-error processing row 243 for URL https://api.wordnik.com/v4/word.json/permutation/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
- - 'text'
-error processing row 244 for URL https://api.wordnik.com/v4/word.json/perquisites/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
- - HTTP Error 404: Not Found
-error processing row 245 for URL https://api.wordnik.com/v4/word.json/personified/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
- - 
-error processing row 247 for URL https://api.wordnik.com/v4/word.json/picaresque/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
- - 
-error processing row 248 for URL https://api.wordnik.com/v4/word.json/pioneering/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
- - 'partOfSpeech'
-error processing row 250 for URL https://api.wordnik.com/v4/word.json/platonic/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
- - 
-error processing row 251 for URL https://api.wordnik.com/v4/word.json/plaudits/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
- - 
-error processing row 253 for URL https://api.wordnik.com/v4/word.json/plutocracy/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
- - 
-error processing row 254 for URL https://api.wordnik.com/v4/word.json/polarize/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
- - 'text'
-error processing row 257 for URL https://api.wordnik.com/v4/word.json/primed/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
- - 'partOfSpeech'
-error processing row 258 for URL https://api.wordnik.com/v4/word.json/pristine/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
- - 'text'
-error processing row 262 for URL https://api.wordnik.com/v4/word.json/progenitors/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
- - HTTP Error 404: Not Found
-error processing row 264 for URL https://api.wordnik.com/v4/word.json/propriety/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
- - 'text'
-error processing row 265 for URL https://api.wordnik.com/v4/word.json/prosaic/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
- - 'text'
-error processing row 267 for URL https://api.wordnik.com/v4/word.json/prudent/topExample?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+error processing row 776 for URL https://api.wordnik.com/v4/word.json/ossified/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
  - HTTP Error 429: Too Many Requests
-error processing row 271 for URL https://api.wordnik.com/v4/word.json/raconteur/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+error processing row 778 for URL https://api.wordnik.com/v4/word.json/ostracized/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - 
+error processing row 790 for URL https://api.wordnik.com/v4/word.json/palliate/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - 'text'
+error processing row 794 for URL https://api.wordnik.com/v4/word.json/pangs/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - 
+error processing row 795 for URL https://api.wordnik.com/v4/word.json/panned/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - 
+error processing row 800 for URL https://api.wordnik.com/v4/word.json/parochial/topExample?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
  - HTTP Error 429: Too Many Requests
-error processing row 273 for URL https://api.wordnik.com/v4/word.json/rancorous/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+error processing row 801 for URL https://api.wordnik.com/v4/word.json/parody/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - 'text'
+error processing row 805 for URL https://api.wordnik.com/v4/word.json/partisan/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
  - 'partOfSpeech'
-error processing row 278 for URL https://api.wordnik.com/v4/word.json/rarefied/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
- - HTTP Error 429: Too Many Requests
-error processing row 280 for URL https://api.wordnik.com/v4/word.json/reap/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+error processing row 808 for URL https://api.wordnik.com/v4/word.json/patois/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
  - 'text'
-error processing row 281 for URL https://api.wordnik.com/v4/word.json/recapitulated/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+error processing row 812 for URL https://api.wordnik.com/v4/word.json/peevish/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - 'text'
+error processing row 818 for URL https://api.wordnik.com/v4/word.json/peons/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
  - 
-error processing row 283 for URL https://api.wordnik.com/v4/word.json/recrudescent/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
- - 'partOfSpeech'
-error processing row 285 for URL https://api.wordnik.com/v4/word.json/refracted/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
- - 'partOfSpeech'
-error processing row 287 for URL https://api.wordnik.com/v4/word.json/rejuvenated/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
- - 
-error processing row 288 for URL https://api.wordnik.com/v4/word.json/relish/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+error processing row 820 for URL https://api.wordnik.com/v4/word.json/peremptory/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
  - 'text'
-error processing row 289 for URL https://api.wordnik.com/v4/word.json/remunerated/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
- - 
-error processing row 290 for URL https://api.wordnik.com/v4/word.json/repertoire/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
- - 
-error processing row 291 for URL https://api.wordnik.com/v4/word.json/resonant/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+error processing row 821 for URL https://api.wordnik.com/v4/word.json/perennial/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
  - 'text'
-error processing row 292 for URL https://api.wordnik.com/v4/word.json/restive/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+error processing row 827 for URL https://api.wordnik.com/v4/word.json/permutation/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
  - 'text'
-error processing row 293 for URL https://api.wordnik.com/v4/word.json/revanche/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
- - 
-error processing row 300 for URL https://api.wordnik.com/v4/word.json/sanguine/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
- - 'text'
-error processing row 301 for URL https://api.wordnik.com/v4/word.json/sapid/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
- - 'text'
-error processing row 302 for URL https://api.wordnik.com/v4/word.json/sashayed/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
- - 
-error processing row 303 for URL https://api.wordnik.com/v4/word.json/schadenfreude/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
- - 
-error processing row 306 for URL https://api.wordnik.com/v4/word.json/secretes/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
- - 
-error processing row 307 for URL https://api.wordnik.com/v4/word.json/secular/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
- - 'text'
-error processing row 308 for URL https://api.wordnik.com/v4/word.json/segue/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
- - 
-error processing row 309 for URL https://api.wordnik.com/v4/word.json/sham/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
- - 'text'
-error processing row 311 for URL https://api.wordnik.com/v4/word.json/skulduggery/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
- - 'text'
-error processing row 312 for URL https://api.wordnik.com/v4/word.json/slake/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
- - 'text'
-error processing row 313 for URL https://api.wordnik.com/v4/word.json/slipshod/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
- - 'text'
-error processing row 314 for URL https://api.wordnik.com/v4/word.json/solicitous/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
- - 'text'
-error processing row 315 for URL https://api.wordnik.com/v4/word.json/solipsistic/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
- - 'partOfSpeech'
-error processing row 323 for URL https://api.wordnik.com/v4/word.json/staple/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
- - 'partOfSpeech'
-error processing row 325 for URL https://api.wordnik.com/v4/word.json/staunch/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
- - 'text'
-error processing row 327 for URL https://api.wordnik.com/v4/word.json/stigmas/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+error processing row 829 for URL https://api.wordnik.com/v4/word.json/perquisites/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
  - HTTP Error 404: Not Found
-error processing row 329 for URL https://api.wordnik.com/v4/word.json/storied/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+error processing row 830 for URL https://api.wordnik.com/v4/word.json/personified/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - 
+error processing row 836 for URL https://api.wordnik.com/v4/word.json/petulant/topExample?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - HTTP Error 429: Too Many Requests
+error processing row 840 for URL https://api.wordnik.com/v4/word.json/picaresque/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - 
+error processing row 846 for URL https://api.wordnik.com/v4/word.json/pinnacle/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - HTTP Error 429: Too Many Requests
+error processing row 847 for URL https://api.wordnik.com/v4/word.json/pioneering/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
  - 'partOfSpeech'
-error processing row 330 for URL https://api.wordnik.com/v4/word.json/streamlined/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+error processing row 856 for URL https://api.wordnik.com/v4/word.json/platonic/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - 
+error processing row 857 for URL https://api.wordnik.com/v4/word.json/plaudits/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - 
+error processing row 862 for URL https://api.wordnik.com/v4/word.json/plutocracy/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - 
+error processing row 863 for URL https://api.wordnik.com/v4/word.json/polarize/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
  - 'text'
-error processing row 331 for URL https://api.wordnik.com/v4/word.json/subjective/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
- - 'text'
-error processing row 336 for URL https://api.wordnik.com/v4/word.json/swathe/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
- - 'text'
-error processing row 337 for URL https://api.wordnik.com/v4/word.json/syntax/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
- - 'text'
-error processing row 339 for URL https://api.wordnik.com/v4/word.json/tangible/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
- - 'text'
-error processing row 340 for URL https://api.wordnik.com/v4/word.json/temporal/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+error processing row 877 for URL https://api.wordnik.com/v4/word.json/precursor/topExample?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - HTTP Error 429: Too Many Requests
+error processing row 883 for URL https://api.wordnik.com/v4/word.json/primed/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
  - 'partOfSpeech'
-error processing row 341 for URL https://api.wordnik.com/v4/word.json/tendentious/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
- - 
-error processing row 342 for URL https://api.wordnik.com/v4/word.json/tenuous/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+error processing row 885 for URL https://api.wordnik.com/v4/word.json/pristine/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
  - 'text'
-error processing row 343 for URL https://api.wordnik.com/v4/word.json/tonic/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+error processing row 893 for URL https://api.wordnik.com/v4/word.json/progenitors/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - HTTP Error 404: Not Found
+error processing row 905 for URL https://api.wordnik.com/v4/word.json/propriety/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
  - 'text'
-error processing row 344 for URL https://api.wordnik.com/v4/word.json/torpid/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+error processing row 906 for URL https://api.wordnik.com/v4/word.json/prosaic/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
  - 'text'
-error processing row 346 for URL https://api.wordnik.com/v4/word.json/treacly/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
- - 
-error processing row 347 for URL https://api.wordnik.com/v4/word.json/tremulous/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
- - 'text'
-error processing row 351 for URL https://api.wordnik.com/v4/word.json/unpretentiousness/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
- - 
-error processing row 353 for URL https://api.wordnik.com/v4/word.json/upbraided/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
- - 
-error processing row 356 for URL https://api.wordnik.com/v4/word.json/vacuous/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
- - 'text'
-error processing row 357 for URL https://api.wordnik.com/v4/word.json/vanquished/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
- - 
-error processing row 358 for URL https://api.wordnik.com/v4/word.json/vaunted/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
- - 
-error processing row 359 for URL https://api.wordnik.com/v4/word.json/venal/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
- - 'text'
-error processing row 360 for URL https://api.wordnik.com/v4/word.json/vernacular/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
- - 'text'
-error processing row 365 for URL https://api.wordnik.com/v4/word.json/virulent/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
- - 'text'
-error processing row 366 for URL https://api.wordnik.com/v4/word.json/vituperated/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
- - 
-error processing row 367 for URL https://api.wordnik.com/v4/word.json/volatile/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
- - 'text'
-error processing row 368 for URL https://api.wordnik.com/v4/word.json/waffle/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+error processing row 921 for URL https://api.wordnik.com/v4/word.json/putrid/topExample?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - HTTP Error 429: Too Many Requests
+error processing row 937 for URL https://api.wordnik.com/v4/word.json/rancorous/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
  - 'partOfSpeech'
-error processing row 372 for URL https://api.wordnik.com/v4/word.json/wrongheaded/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+error processing row 948 for URL https://api.wordnik.com/v4/word.json/reap/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - 'text'
+error processing row 952 for URL https://api.wordnik.com/v4/word.json/recapitulated/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - 
+error processing row 956 for URL https://api.wordnik.com/v4/word.json/recrudescent/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - 'partOfSpeech'
+error processing row 962 for URL https://api.wordnik.com/v4/word.json/refracted/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - 'partOfSpeech'
+error processing row 966 for URL https://api.wordnik.com/v4/word.json/rejuvenated/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - 
+error processing row 968 for URL https://api.wordnik.com/v4/word.json/relish/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - 'text'
+error processing row 972 for URL https://api.wordnik.com/v4/word.json/remunerated/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - HTTP Error 429: Too Many Requests
+error processing row 974 for URL https://api.wordnik.com/v4/word.json/repertoire/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - 
+error processing row 985 for URL https://api.wordnik.com/v4/word.json/resonant/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - 'text'
+error processing row 989 for URL https://api.wordnik.com/v4/word.json/restive/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - 'text'
+error processing row 996 for URL https://api.wordnik.com/v4/word.json/revanche/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - 
+error processing row 1011 for URL https://api.wordnik.com/v4/word.json/row/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - HTTP Error 429: Too Many Requests
+error processing row 1022 for URL https://api.wordnik.com/v4/word.json/sanguine/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - 'text'
+error processing row 1024 for URL https://api.wordnik.com/v4/word.json/sapid/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - 'text'
+error processing row 1027 for URL https://api.wordnik.com/v4/word.json/sashayed/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - 
+error processing row 1032 for URL https://api.wordnik.com/v4/word.json/schadenfreude/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - 
+error processing row 1040 for URL https://api.wordnik.com/v4/word.json/scuffle/topExample?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - HTTP Error 429: Too Many Requests
+error processing row 1043 for URL https://api.wordnik.com/v4/word.json/secretes/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - 
+error processing row 1045 for URL https://api.wordnik.com/v4/word.json/secular/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - 'text'
+error processing row 1048 for URL https://api.wordnik.com/v4/word.json/segue/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - 
+error processing row 1050 for URL https://api.wordnik.com/v4/word.json/semblance/topExample?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - HTTP Error 429: Too Many Requests
+error processing row 1058 for URL https://api.wordnik.com/v4/word.json/sham/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - 'text'
+error processing row 1061 for URL https://api.wordnik.com/v4/word.json/shirk/topExample?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - HTTP Error 429: Too Many Requests
+error processing row 1068 for URL https://api.wordnik.com/v4/word.json/skulduggery/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - 'text'
+error processing row 1070 for URL https://api.wordnik.com/v4/word.json/slake/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - 'text'
+error processing row 1073 for URL https://api.wordnik.com/v4/word.json/slipshod/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - 'text'
+error processing row 1076 for URL https://api.wordnik.com/v4/word.json/sojourn/topExample?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - HTTP Error 429: Too Many Requests
+error processing row 1078 for URL https://api.wordnik.com/v4/word.json/solicitous/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - 'text'
+error processing row 1080 for URL https://api.wordnik.com/v4/word.json/solipsistic/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - 'partOfSpeech'
+error processing row 1083 for URL https://api.wordnik.com/v4/word.json/sophistry/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - HTTP Error 429: Too Many Requests
+error processing row 1099 for URL https://api.wordnik.com/v4/word.json/staple/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - 'partOfSpeech'
+error processing row 1101 for URL https://api.wordnik.com/v4/word.json/staunch/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - 'text'
+error processing row 1103 for URL https://api.wordnik.com/v4/word.json/stigmas/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - HTTP Error 404: Not Found
+error processing row 1106 for URL https://api.wordnik.com/v4/word.json/storied/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - 'partOfSpeech'
+error processing row 1108 for URL https://api.wordnik.com/v4/word.json/streamlined/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - 'text'
+error processing row 1115 for URL https://api.wordnik.com/v4/word.json/subjective/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - 'text'
+error processing row 1131 for URL https://api.wordnik.com/v4/word.json/surreptitious/topExample?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - HTTP Error 429: Too Many Requests
+error processing row 1133 for URL https://api.wordnik.com/v4/word.json/swathe/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - 'text'
+error processing row 1138 for URL https://api.wordnik.com/v4/word.json/syntax/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - 'text'
+error processing row 1140 for URL https://api.wordnik.com/v4/word.json/tangible/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - 'text'
+error processing row 1145 for URL https://api.wordnik.com/v4/word.json/temporal/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - 'partOfSpeech'
+error processing row 1147 for URL https://api.wordnik.com/v4/word.json/tendentious/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - 
+error processing row 1149 for URL https://api.wordnik.com/v4/word.json/tenuous/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - 'text'
+error processing row 1155 for URL https://api.wordnik.com/v4/word.json/tonic/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - 'text'
+error processing row 1157 for URL https://api.wordnik.com/v4/word.json/torpid/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - 'text'
+error processing row 1164 for URL https://api.wordnik.com/v4/word.json/treacly/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - 
+error processing row 1165 for URL https://api.wordnik.com/v4/word.json/tremulous/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - 'text'
+error processing row 1169 for URL https://api.wordnik.com/v4/word.json/truncated/topExample?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - HTTP Error 429: Too Many Requests
+error processing row 1190 for URL https://api.wordnik.com/v4/word.json/unpretentiousness/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - 
+error processing row 1193 for URL https://api.wordnik.com/v4/word.json/unsavory/topExample?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - HTTP Error 429: Too Many Requests
+error processing row 1197 for URL https://api.wordnik.com/v4/word.json/upbraided/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - 
+error processing row 1200 for URL https://api.wordnik.com/v4/word.json/usurp/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - HTTP Error 429: Too Many Requests
+error processing row 1203 for URL https://api.wordnik.com/v4/word.json/vacuous/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - 'text'
+error processing row 1205 for URL https://api.wordnik.com/v4/word.json/vanquished/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - 
+error processing row 1208 for URL https://api.wordnik.com/v4/word.json/vaunted/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - 
+error processing row 1210 for URL https://api.wordnik.com/v4/word.json/venal/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - 'text'
+error processing row 1211 for URL https://api.wordnik.com/v4/word.json/veracious/topExample?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - HTTP Error 429: Too Many Requests
+error processing row 1215 for URL https://api.wordnik.com/v4/word.json/vernacular/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - 'text'
+error processing row 1218 for URL https://api.wordnik.com/v4/word.json/vex/topExample?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - HTTP Error 429: Too Many Requests
+error processing row 1225 for URL https://api.wordnik.com/v4/word.json/virulent/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - 'text'
+error processing row 1229 for URL https://api.wordnik.com/v4/word.json/vituperated/relatedWords?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - 
+error processing row 1233 for URL https://api.wordnik.com/v4/word.json/volatile/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - 'text'
+error processing row 1238 for URL https://api.wordnik.com/v4/word.json/waffle/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - 'partOfSpeech'
+error processing row 1246 for URL https://api.wordnik.com/v4/word.json/whet/topExample?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - HTTP Error 429: Too Many Requests
+error processing row 1255 for URL https://api.wordnik.com/v4/word.json/woo/topExample?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
+ - HTTP Error 429: Too Many Requests
+error processing row 1258 for URL https://api.wordnik.com/v4/word.json/wrongheaded/definitions?api_key=tyvpw40uui976l6o64bnlzwu45fg7xa23y89guxywd5a8edx2
  - 'partOfSpeech'
