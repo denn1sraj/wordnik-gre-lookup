@@ -19,4 +19,4 @@
 
 ## BigQuery Dev -- Future Feature
 
-- 1. refactor to write to BigQuery table using service account
+- 1. refactor to write to BigQuery table using service account (test)
